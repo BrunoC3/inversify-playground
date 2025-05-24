@@ -1,0 +1,21 @@
+{
+  "name": "inversify-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev --respawn src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inversify": "7.5.1",
+    "reflect-metadata": "0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.21",
+    "ts-node-dev": "2.0.0",
+    "typescript": "5.8.3"
+  }
+}
