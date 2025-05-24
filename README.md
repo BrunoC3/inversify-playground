@@ -1,5 +1,6 @@
 # inversify-playground
 
+```
 inversify-playground/
 ├── src/
 │ ├── interfaces/
@@ -8,3 +9,4 @@ inversify-playground/
 │ └── index.ts
 ├── tsconfig.json
 └── package.json
+```
