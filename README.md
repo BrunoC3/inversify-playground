@@ -6,6 +6,7 @@ inversify-playground/
 │ ├── interfaces/
 │ ├── services/
 │ ├── inversify.config.ts
+│ ├── types.ts
 │ └── index.ts
 ├── tsconfig.json
 └── package.json
